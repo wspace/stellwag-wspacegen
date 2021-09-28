@@ -1,0 +1,6 @@
+wspacegen
+wsdbg
+wsi
+*.o
+*.d
+*.dep
